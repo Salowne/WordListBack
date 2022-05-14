@@ -1,6 +1,6 @@
 # WordListBack
 Embaraçador de nomes, letras, números, caracteres, etc. Para a criação de wordlist para bruteforce.
-![I G O R 08088088008880888080](https://user-images.githubusercontent.com/25424970/168394761-ecdb5ccd-7542-4eca-86ff-cd40e1a42163.png)
+![CP09](https://user-images.githubusercontent.com/25424970/168410985-67130981-00da-442b-93a0-537b04fa5b8b.png)
 <b>Versão: </b>0.3
 
 # Mais sobre WordListBack
