@@ -1,6 +1,6 @@
 # WordListBack
 Embaraçador de nomes, letras, números, caracteres, etc. Para a criação de wordlist para bruteforce.
-![CP09](https://user-images.githubusercontent.com/25424970/168410985-67130981-00da-442b-93a0-537b04fa5b8b.png)
+![DooodtaSet](https://user-images.githubusercontent.com/25424970/168957389-e1b4a1f1-3f36-4c84-bfe0-69dee5da9e6c.png)
 <b>Versão: </b>0.3
 
 # Mais sobre WordListBack
@@ -14,3 +14,4 @@ pequenas para que suas senhas nao fique muito grandes.
 # Modo de usar:
 - wget https://raw.githubusercontent.com/GMagNLL/WordListBack/main/.WordListBack.py
 - python3 .WordListBack.py
+# Ou:
