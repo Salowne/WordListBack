@@ -15,5 +15,8 @@ pequenas para que suas senhas nao fique muito grandes.
 - wget https://raw.githubusercontent.com/GMagNLL/WordListBack/main/.WordListBack.py
 - python3 .WordListBack.py
 # Ou Install:
-- wget https://raw.githubusercontent.com/GMagNLL/WordListBack/main/.WordListBack.py
-- cp .WordListBack.py /usr/bin/listback && chmod +x /usr/bin/listback
+- git clone https://github.com/GMagNLL/WordListBack.git
+- cd WodListBack
+- cp .WordListBack.py /usr/bin/listback
+- chmod +x /usr/bin/listback
+- 'listback' para chamalo
